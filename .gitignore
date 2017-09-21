@@ -3,6 +3,7 @@ bin/
 lib/
 include/
 __pycache__/
+man/
 
 #configuration files
 *.cfg
