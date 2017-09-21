@@ -1,0 +1,9 @@
+#distribution
+bin/
+lib/
+include/
+__pycache__/
+
+#configuration files
+*.cfg
+*.json

@@ -1,0 +1,12 @@
+language: python
+
+python:
+   - 3.6
+
+script:
+   python tests.py
+
+before_install:
+   - pip install -r requirements.txt
+
+
